@@ -1,0 +1,23 @@
+{
+	"name": "site-responsiveness",
+	"version": "1.0.0",
+	"description": "a clean npm tool to check if the website is responsive",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Multi-Thinker/site-responsiveness.git"
+	},
+	"keywords": ["website", "responsive", "detection", "media", "query", "check"],
+	"author": "imultithinker <prothinker00@hotmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Multi-Thinker/site-responsiveness/issues"
+	},
+	"homepage": "https://github.com/Multi-Thinker/site-responsiveness#readme",
+	"dependencies": {
+		"puppeteer": "^1.18.1"
+	}
+}
